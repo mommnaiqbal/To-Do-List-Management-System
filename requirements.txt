@@ -1,0 +1,4 @@
+No external libraries required.
+
+Python >=3.9
+SQLite3 (Built into Python)
